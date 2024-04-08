@@ -1,0 +1,22 @@
+{
+    "name": "callmeaf/farazsms",
+    "description": "Faraz Sms Service",
+    "type": "library",
+    "require": {
+        "callmeaf/base": "dev-master",
+        "callmeaf/sms": "dev-master"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Callmeaf\\Farazsms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alikhoshkar",
+            "email": "alikhoshkar2000@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
